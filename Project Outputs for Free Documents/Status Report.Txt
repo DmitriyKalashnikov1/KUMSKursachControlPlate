@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 14:58:15 On 21.04.2024
+
+Output: Bill of Materials
+Type  : BOM
+From  : Variant [[No Variations]] of Schematic Document [ControlPlateGOST.SchDoc]
+   Generated File[Bill of Materials-ControlPlateGOST.xls]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 14:58:55 On 21.04.2024
